@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Changing Odin's Base Content"
-date: 2019-11-05 08:44:38 -0400
-category: customizing-odin
-author: mac
+title: PUSH & DOGG
+date:EL DIA QUE NOSOTROS DIGAMOS
+category: DERROCHANDO CLASE
+author: LA CUADRILLA
 short-description: Adding your brand name, links, etc
 ---
 
