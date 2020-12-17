@@ -15,8 +15,8 @@ To change the colors used in Odin, first navigate to `_scss/_variables.scss`.
 
 This file contains all of the colors used in Odin. The primary colors you should be concerned about changing are listed below.
 
-**$primary-color** - VERDE DEL BETIS. 
+**$primary-color** - VERDE DEL BETIS WENO. 
 
-**$highlight-color** - GRIS METALIZADO.
+**$highlight-color** - GRIS METALIZADO MATE.
 
 After editing any colors, run `jekyll serve` to see the changes locally. If you're satisfied with your changes, run `jekyll build` and then push your changes to your repo.
