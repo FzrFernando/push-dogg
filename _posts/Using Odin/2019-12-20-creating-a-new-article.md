@@ -4,8 +4,9 @@ title: "Ropa Urbana"
 date: 2020-12-17 08:44:38 -0400
 category: using-odin
 author: mac
-short-description: How to add a new article to your Odin knowledge base
+short-description: Como hacer un archivo
 ---
+
 
 **This article is coming soon**
 
