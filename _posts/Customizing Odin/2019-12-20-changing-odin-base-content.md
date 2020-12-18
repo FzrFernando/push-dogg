@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PUSH & DOGG
-date:EL DIA QUE NOSOTROS DIGAMOS
-category: DERROCHANDO CLASE
-author: LA CUADRILLA
+title: "Changing Odin Colors"
+date: 2019-11-05 08:44:38 -0400
+category: customizing-odin
+author: mac
 short-description: Adding your brand name, links, etc
 ---
 
